@@ -1,0 +1,1 @@
+# multi-component-child-image
