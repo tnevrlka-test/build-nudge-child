@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-qbzh-tenant/build-suite-component-update-azaf/multi-component-parent-bcrl@sha256:b01a07ca2f3e5dd26c988bebc1a3f46cbc269d11e9952ce7f3468848f17cb86e
+FROM quay.io/redhat-appstudio-qe/build-e2e-qbzh-tenant/build-suite-component-update-azaf/multi-component-parent-bcrl@sha256:f2662e643457fed68381afed3b21d402801d5165894e3d238700027c0280a89a
 RUN echo hello
