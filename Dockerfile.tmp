@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-bkui-tenant/build-suite-component-update-puns/multi-component-parent-uhos@sha256:c4444131eafb8433a2c1e754a0c80cc5be4b618000af83cd5d836b0dabb40a87
+RUN echo hello
