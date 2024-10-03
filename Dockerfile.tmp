@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-xslo-tenant/build-suite-component-update-uops/multi-component-parent-lnvd@sha256:b26152e08d6649f4601c4a66cf35e888c1e804ab8d7451326424e7cd99612397
+RUN echo hello
