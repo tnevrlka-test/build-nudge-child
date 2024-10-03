@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-exep-tenant/build-suite-component-update-uviz/multi-component-parent-xweo@sha256:bdb7c749e9f04c5b7e74518ad86018c5026d638db52538db8c1fa3f8a28d11dc
+FROM quay.io/redhat-appstudio-qe/build-e2e-exep-tenant/build-suite-component-update-uviz/multi-component-parent-xweo@sha256:3da0455cec1b2ab92726672cb12dd88f63596ac781135ff8a992fd1ff90bd669
 RUN echo hello
