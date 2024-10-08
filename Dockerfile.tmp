@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-rhcd-tenant/build-suite-component-update-wtpa/multi-component-parent-ioyv@sha256:3dbe1a6d8a08698c6eef71f78554b5f07f2f6eb2faf6e0f79adba8e98a954a87
+RUN echo hello
