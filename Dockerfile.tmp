@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ufkd-tenant/build-suite-component-update-bkpg/multi-component-parent-qroj@sha256:b79daab2a7d705ba1a1660c257db94f989f931a8a2eb228b3cbe71a4b23f5ee7
+RUN echo hello
