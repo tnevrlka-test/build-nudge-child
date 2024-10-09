@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-mrpi-tenant/multi-component-parent-eoal@sha256:c0e67737b664f65adfd8a45250407d907044a2725a8de73619179c2c89743bfc
+FROM quay.io/redhat-appstudio-qe/build-e2e-mrpi-tenant/multi-component-parent-eoal@sha256:f7bdf98fca33eee96c3bf045b28dca0705e4c49c57d08eba337240bc8fd065fb
 RUN echo hello
