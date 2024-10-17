@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-fvac-tenant/gh-multi-component-parent-snlr@sha256:d30f44a1c9860902ef619e239f16bb0cbd8c6054afb265124830c7ba7edacca9
+RUN echo hello
